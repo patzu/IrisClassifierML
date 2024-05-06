@@ -1,0 +1,22 @@
+# IntelliJ specific
+.idea/
+*.iml
+*.xml
+
+
+venv/
+*.pyc
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
